@@ -1,0 +1,65 @@
+        nav, section, footer {
+            border: 1px solid;
+        }
+        img {
+            margin-left: 90px;
+        }
+        #logo {
+            margin: 0;
+            border: 1px solid;
+        }
+        #gnb {
+            float: right;
+            margin-right: 50px;
+        }
+        #mainGnb{
+            list-style: none;
+        }
+        #mainLi {
+            float: left;
+            margin: 10px;
+        }
+        a {
+            color: black;
+            text-decoration: none;
+        }
+        #banner {
+            height: 200px;
+            text-align: center;
+            font-size: 50px;
+            padding-top: 100px; 
+        }
+        #contents {
+            height: 600px;
+        }
+        .parent {
+            width: 90%;
+            margin: 50px auto;
+        }
+        .first {
+            border: 1px solid black;
+            float: left;
+            width: 30%;
+            height: 300px;
+            box-sizing: border-box;
+        }
+        .second {
+            border: 1px solid black;
+            float: left;
+            margin-left: 5%;
+            width: 30%;
+            height: 300px;
+            box-sizing: border-box;
+        }
+        .third {
+            border: 1px solid black;
+            float: right;
+            width: 30%;
+            height: 300px;
+            box-sizing: border-box;
+        }
+        .firstTitle, .secondTitle, .thirdTitle {
+            border-top: 1px solid black;
+            height: 50px;
+            margin-top: 225px;
+        }
